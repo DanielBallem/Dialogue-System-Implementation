@@ -4,12 +4,12 @@
 
 
 ## Features:
-- ### Integration with dialogue system:
+- ### Integration with dialogue system (Event based):
   - Character is highlighted while speaking.
   - Option is highlighted as the user mouses over.
   - Example flow is created using the editor.
   - Ability to define "characters" (An enum in a file that a character will use to associate itself with a dialogue).
-- ### Editor (I learned a lot through following tutorials)
+- ### Editor (Very much not entirely mine. Followed tutorial)
   - Ability to create, save and load new dialogue trees.
   - Ability to edit the text and answers.
   - Node based editor to connect all the dialogue boxes together
